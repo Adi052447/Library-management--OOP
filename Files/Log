@@ -1,0 +1,173 @@
+[2025-01-24 00:29:41,871] ERROR: logged in fail
+[2025-01-24 00:29:43,215] INFO: registered successfully
+[2025-01-24 00:29:49,534] INFO: log out successful
+[2025-01-24 00:40:56,091] ERROR: logged in fail
+[2025-01-24 00:40:59,681] INFO: registered successfully
+[2025-01-24 00:41:21,702] INFO: book added successfully
+[2025-01-24 00:41:34,721] ERROR: book removed fail
+[2025-01-24 00:43:59,359] INFO: book added successfully
+[2025-01-24 00:45:49,540] INFO: registered successfully
+[2025-01-24 00:46:03,097] INFO: book added successfully
+[2025-01-24 00:49:46,232] ERROR: register failed
+[2025-01-24 00:49:51,315] ERROR: register failed
+[2025-01-24 00:49:56,509] INFO: logged in successfully
+[2025-01-24 00:50:12,677] INFO: book added successfully
+[2025-01-24 00:51:45,395] ERROR: logged in fail
+[2025-01-24 00:51:48,200] INFO: registered successfully
+[2025-01-24 00:52:04,193] INFO: book added successfully
+[2025-01-24 00:53:42,171] ERROR: logged in fail
+[2025-01-24 00:53:44,246] INFO: registered successfully
+[2025-01-24 00:53:59,603] INFO: book added successfully
+[2025-01-24 00:54:06,537] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 00:54:23,881] ERROR: Search book 'djkl' by name completed fail
+[2025-01-24 00:54:38,974] INFO: Search book 'gam' by author completed successfully
+[2025-01-24 00:54:51,943] INFO: Search book '2000' by year completed successfully
+[2025-01-24 00:55:03,551] INFO: Search book 'class' by genre completed successfully
+[2025-01-24 00:55:42,331] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:02:40,806] INFO: registered successfully
+[2025-01-24 01:02:57,928] ERROR: book added fail
+[2025-01-24 01:03:12,425] INFO: book added successfully
+[2025-01-24 01:03:18,378] INFO: Search book 'adidi' by name completed successfully
+[2025-01-24 01:05:40,181] INFO: registered successfully
+[2025-01-24 01:05:45,321] INFO: Search book 'adidi' by name completed successfully
+[2025-01-24 01:06:03,577] INFO: Search book 'gamzu' by author completed successfully
+[2025-01-24 01:06:14,819] INFO: Search book 'class' by genre completed successfully
+[2025-01-24 01:06:23,005] INFO: Search book '200' by year completed successfully
+[2025-01-24 01:06:35,885] ERROR: Search book '11' by name completed fail
+[2025-01-24 01:06:40,022] INFO: Display all books successfully
+[2025-01-24 01:06:41,047] INFO: Display available books successfully
+[2025-01-24 01:06:41,775] INFO: Display borrowed books successfully
+[2025-01-24 01:06:47,952] INFO: Display books by category successfully
+[2025-01-24 01:06:50,829] INFO: Display books by category successfully
+[2025-01-24 01:07:00,734] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:07:00,736] ERROR: book returned fail
+[2025-01-24 01:07:08,186] INFO: Search book 'adidi' by name completed successfully
+[2025-01-24 01:07:08,187] ERROR: book returned fail
+[2025-01-24 01:07:16,731] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:07:28,115] INFO: book removed successfully
+[2025-01-24 01:07:36,187] INFO: book removed successfully
+[2025-01-24 01:07:42,363] ERROR: Search book 'adi' by name completed fail
+[2025-01-24 01:07:45,333] INFO: Display all books successfully
+[2025-01-24 01:07:46,720] INFO: Display available books successfully
+[2025-01-24 01:07:47,972] INFO: Display borrowed books successfully
+[2025-01-24 01:07:51,803] INFO: displayed successfully
+[2025-01-24 01:08:05,555] INFO: log out successful
+[2025-01-24 01:08:36,319] ERROR: logged in fail
+[2025-01-24 01:08:38,441] INFO: registered successfully
+[2025-01-24 01:08:53,169] INFO: book added successfully
+[2025-01-24 01:08:59,626] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:09:27,532] ERROR: logged in fail
+[2025-01-24 01:09:29,447] INFO: registered successfully
+[2025-01-24 01:09:33,741] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:09:44,063] INFO: Search book '19' by name completed successfully
+[2025-01-24 01:10:08,894] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:10:18,295] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:10:24,099] INFO: Search book '19' by name completed successfully
+[2025-01-24 01:10:28,734] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:10:47,389] INFO: log out successful
+[2025-01-24 01:11:13,940] ERROR: logged in fail
+[2025-01-24 01:11:15,998] INFO: registered successfully
+[2025-01-24 01:11:30,079] INFO: book added successfully
+[2025-01-24 01:11:36,542] INFO: Search book 'adidi' by name completed successfully
+[2025-01-24 01:11:54,460] INFO: log out successful
+[2025-01-24 01:12:00,575] INFO: registered successfully
+[2025-01-24 01:12:04,861] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:13:36,818] INFO: registered successfully
+[2025-01-24 01:13:41,917] INFO: Search book 'adidi' by name completed successfully
+[2025-01-24 01:13:46,654] INFO: Search book '19' by name completed successfully
+[2025-01-24 01:13:51,630] INFO: log out successful
+[2025-01-24 01:13:56,688] INFO: registered successfully
+[2025-01-24 01:14:00,487] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:14:18,862] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:14:25,907] INFO: Search book '19' by name completed successfully
+[2025-01-24 01:14:30,165] INFO: log out successful
+[2025-01-24 01:14:36,363] INFO: registered successfully
+[2025-01-24 01:14:40,652] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 01:15:11,239] INFO: book added successfully
+[2025-01-24 01:15:21,304] INFO: Search book 'danit' by name completed successfully
+[2025-01-24 01:20:10,492] ERROR: logged in fail
+[2025-01-24 01:20:12,511] INFO: registered successfully
+[2025-01-24 01:20:32,229] INFO: book added successfully
+[2025-01-24 01:20:40,407] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:20:53,305] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:20:53,306] ERROR: book returned fail
+[2025-01-24 01:20:54,331] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:20:54,333] ERROR: book returned fail
+[2025-01-24 01:20:56,618] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:20:56,619] ERROR: book returned fail
+[2025-01-24 01:22:10,453] INFO: registered successfully
+[2025-01-24 01:22:16,382] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:22:16,383] ERROR: book returned fail
+[2025-01-24 01:22:31,747] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:22:42,392] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:22:42,394] ERROR: book returned fail
+[2025-01-24 01:22:50,096] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:04,649] INFO: book borrowed successfully
+[2025-01-24 01:23:10,372] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:10,377] INFO: book returned successfully
+[2025-01-24 01:23:12,964] INFO: log out successful
+[2025-01-24 01:23:19,365] INFO: registered successfully
+[2025-01-24 01:23:26,517] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:34,341] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:34,342] ERROR: book returned fail
+[2025-01-24 01:23:41,959] INFO: book borrowed successfully
+[2025-01-24 01:23:48,119] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:48,124] INFO: book returned successfully
+[2025-01-24 01:23:53,851] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:23:53,852] ERROR: book returned fail
+[2025-01-24 01:23:56,596] INFO: displayed successfully
+[2025-01-24 01:24:07,118] INFO: book borrowed successfully
+[2025-01-24 01:24:13,978] INFO: book borrowed successfully
+[2025-01-24 01:24:19,294] INFO: book borrowed successfully
+[2025-01-24 01:24:21,867] INFO: displayed successfully
+[2025-01-24 01:24:33,342] INFO: book borrowed successfully
+[2025-01-24 01:24:39,680] INFO: book borrowed successfully
+[2025-01-24 01:24:45,360] ERROR: book borrowed fail
+[2025-01-24 01:24:56,348] INFO: add to waiting list successfully
+[2025-01-24 01:25:08,350] INFO: displayed successfully
+[2025-01-24 01:25:25,468] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:25:43,521] INFO: Search book 'adig' by name completed successfully
+[2025-01-24 01:26:05,738] INFO: displayed successfully
+[2025-01-24 01:26:17,601] INFO: log out successful
+[2025-01-24 01:57:46,603] INFO: book added successfully
+[2025-01-24 01:57:46,636] ERROR: book added fail
+[2025-01-24 01:57:46,644] ERROR: book added fail
+[2025-01-24 01:57:46,659] INFO: book added successfully
+[2025-01-24 01:57:46,669] INFO: book borrowed successfully
+[2025-01-24 01:57:46,708] INFO: book added successfully
+[2025-01-24 01:57:46,709] ERROR: book borrowed fail
+[2025-01-24 01:57:46,732] ERROR: book borrowed fail
+[2025-01-24 01:57:46,747] INFO: book added successfully
+[2025-01-24 01:57:46,758] INFO: book returned successfully
+[2025-01-24 01:57:46,802] INFO: book added successfully
+[2025-01-24 01:57:46,803] ERROR: book returned fail
+[2025-01-24 01:57:46,841] INFO: book added successfully
+[2025-01-24 01:57:46,848] INFO: book removed successfully
+[2025-01-24 01:57:46,865] INFO: book added successfully
+[2025-01-24 01:57:46,866] INFO: add to waiting list successfully
+[2025-01-24 02:09:02,744] INFO: registered successfully
+[2025-01-24 02:09:11,905] INFO: Search book 'adi' by name completed successfully
+[2025-01-24 02:09:19,573] INFO: displayed successfully
+[2025-01-24 02:09:25,143] INFO: Display all books successfully
+[2025-01-24 02:09:27,173] INFO: Display borrowed books successfully
+[2025-01-24 02:09:27,896] INFO: Display available books successfully
+[2025-01-24 02:09:28,856] INFO: Display all books successfully
+[2025-01-24 02:09:33,950] INFO: log out successful
+[2025-01-24 15:48:28,122] INFO: registered successfully
+[2025-01-24 15:48:36,912] INFO: Search book 'moby' by name completed successfully
+[2025-01-24 15:49:39,180] INFO: book added successfully
+[2025-01-24 15:49:39,239] ERROR: book added fail
+[2025-01-24 15:49:39,249] ERROR: book added fail
+[2025-01-24 15:49:39,265] INFO: book added successfully
+[2025-01-24 15:49:39,276] INFO: book borrowed successfully
+[2025-01-24 15:49:39,316] INFO: book added successfully
+[2025-01-24 15:49:39,317] ERROR: book borrowed fail
+[2025-01-24 15:49:39,345] ERROR: book borrowed fail
+[2025-01-24 15:49:39,363] INFO: book added successfully
+[2025-01-24 15:49:39,374] INFO: book returned successfully
+[2025-01-24 15:49:39,408] INFO: book added successfully
+[2025-01-24 15:49:39,409] ERROR: book returned fail
+[2025-01-24 15:49:39,441] INFO: book added successfully
+[2025-01-24 15:49:39,453] INFO: book removed successfully
+[2025-01-24 15:49:39,474] INFO: book added successfully
+[2025-01-24 15:49:39,475] INFO: add to waiting list successfully
